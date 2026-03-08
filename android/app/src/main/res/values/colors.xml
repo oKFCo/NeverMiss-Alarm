@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="alarm_red">#B71C1C</color>
+    <color name="alarm_red_dark">#7F0000</color>
+    <color name="alarm_surface">#FFF8E1</color>
+    <color name="failsafe_accent">#0E7490</color>
+</resources>
